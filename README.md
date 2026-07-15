@@ -1,16 +1,16 @@
-## Hi there 👋
+# LeetCode Solutions
 
-<!--
-**ravichaura440/ravichaura440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains my LeetCode solutions in Java.
 
-Here are some ideas to get you started:
+## 📊 Progress
+- Language: Java
+- Goal: Crack coding interviews
+- Total Solved: Updating regularly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Folder Structure
+
+- Easy
+- Medium
+- Hard
+
+Happy Coding! 🚀
